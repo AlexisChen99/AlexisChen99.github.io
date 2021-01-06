@@ -9,7 +9,7 @@ Enough of talking about this website. Let's talk a little bit about myself. My n
 
 
 This is an image of my.
-![me](IMG_3616(1).jpg)
+![me](selfie.jpg)
 
 
 Here are a list of things I like 
