@@ -26,7 +26,7 @@ Here are a list of things I like
   2. java 
 
 Here are my todo list for 2021
-- [] Learn HTML, CSS, and Javascript
+- [x] Learn HTML, CSS, and Javascript
 - [] Learn more about machine learning 
 - [] Dive deep into deep learning
 
