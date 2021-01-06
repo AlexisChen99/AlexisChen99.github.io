@@ -5,7 +5,7 @@
 This website `AlexisChen99.github.io` is an _experimental_ website that aims to help me become more **farmiliar** with Markdown. ~~Still, html and css are better than Markdown~~. ***Anyway, this is still a good practice for me to become better with Markdown***. There is a quote: 
 > Practice makes perfect. 
 
-Enough of talking about this website. Let's talk a little bit about myself. My name is Alexis and you can see more information about myself by clicking on this [website](https://alexischen99.github.io/). You can also check this [link](#heading-7)
+Enough of talking about this website. Let's talk a little bit about myself. My name is Alexis and you can see more information about myself by clicking on this [website](https://alexischen99.github.io/). You can also check this [link](/test.md)
 
 
 ## [Welcome to GitHub Pages](https://duckduckgo.com/?va=b&t=hc)
