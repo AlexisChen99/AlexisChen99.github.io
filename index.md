@@ -1,3 +1,9 @@
+# Hello
+## This is 
+### Alexis 
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/AlexisChen99/AlexisChen99.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
@@ -15,6 +21,8 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
+This website `AlexisChen99.github.io` is an _experimental_ website that aims to help me become more **farmiliar** with Markdown. ~~Still, html and css are better than Markdown~~. ***Anyway, this is still a good practice for me to become better with Markdown***. There is a quote, >Practice makes perfect. 
+
 - Bulleted
 - List
 
@@ -25,10 +33,6 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-
-# Hello
-## This is 
-### Alexis 
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
