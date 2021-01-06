@@ -8,7 +8,7 @@ This website `AlexisChen99.github.io` is an _experimental_ website that aims to 
 Enough of talking about this website. Let's talk a little bit about myself. My name is Alexis and you can see more information about myself by clicking on this [website](https://alexischen99.github.io/). You can also check this [link](#heading-7)
 
 
-## Welcome to GitHub Pages
+## [Welcome to GitHub Pages](https://duckduckgo.com/?va=b&t=hc)
 
 You can use the [editor on GitHub](https://github.com/AlexisChen99/AlexisChen99.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
