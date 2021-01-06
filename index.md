@@ -8,6 +8,24 @@ This website `AlexisChen99.github.io` is an _experimental_ website that aims to 
 Enough of talking about this website. Let's talk a little bit about myself. My name is Alexis and you can see more information about myself by clicking on this [website](https://alexischen99.github.io/). You can also check this [link](/test.md)
 
 
+This is an image of my.
+
+
+Here are a list of things I like 
+- food
+  1. Fried rice
+  2. Chicken salad
+  3. Nachos
+    - chicken nachos are the best
+- sport
+  1. Volleyball
+  2. Ping pong
+  3. Swimming
+- langauge
+  1. c++
+  2. java 
+
+
 ## [Welcome to GitHub Pages](https://duckduckgo.com/?va=b&t=hc)
 
 You can use the [editor on GitHub](https://github.com/AlexisChen99/AlexisChen99.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
