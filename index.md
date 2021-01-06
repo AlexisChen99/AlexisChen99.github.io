@@ -25,6 +25,10 @@ Here are a list of things I like
   1. c++
   2. java 
 
+Here are my todo list for 2021
+- [] Learn HTML, CSS, and Javascript
+- [] Learn more about machine learning 
+- [] Dive deep into deep learning
 
 ## [Welcome to GitHub Pages](https://duckduckgo.com/?va=b&t=hc)
 
