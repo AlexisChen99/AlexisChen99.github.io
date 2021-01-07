@@ -1,5 +1,5 @@
-# Hello
-## This is 
+# [Hello](https://www.facebook.com/)
+## [This is](https://www.google.com/) 
 ### Alexis 
 
 This website `AlexisChen99.github.io` is an _experimental_ website that aims to help me become more **farmiliar** with Markdown. ~~Still, html and css are better than Markdown~~. ***Anyway, this is still a good practice for me to become better with Markdown***. There is a quote: 
