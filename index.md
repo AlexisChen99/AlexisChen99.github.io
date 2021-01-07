@@ -31,6 +31,7 @@ Here are my todo list for 2021
 - [ ] Learn HTML, CSS, and Javascript
 - [ ] Learn more about machine learning 
 - [ ] Dive deep into deep learning
+- [x] start running every other day
 
 ## [Welcome to GitHub Pages](https://duckduckgo.com/?va=b&t=hc)
 
